@@ -1,0 +1,17 @@
+wheel
+Django
+django-cors-headers
+djangorestframework
+djangorestframework_simplejwt
+django-createsuperuser
+django-debug-toolbar
+Pillow
+psycopg2
+-e git+https://gitlab.com/Kononkov1998/rawg-python-wrapper#egg=rawgpy #modified rawgpy
+howlongtobeatpy
+drf-yasg
+tmdbsimple
+requests
+drf-nested-routers
+celery
+celery[redis]
