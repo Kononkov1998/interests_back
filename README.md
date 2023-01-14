@@ -1,3 +1,2 @@
 # interests_back
-Серверная часть Interests
-https://interests.host/
+https://xn--e1aahuqhade.space/
