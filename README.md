@@ -1,2 +1,2 @@
 # interests_back
-https://xn--e1aahuqhade.space/
+https://интерестс.space/
