@@ -1,2 +1,2 @@
 # interests_back
-https://интерестс.space/
+https://your-interests.ru/
